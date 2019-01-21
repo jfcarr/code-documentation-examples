@@ -11,5 +11,7 @@ int CGreeter::SayHello(char *name)
 int CGreeter::SayGoodbye(char *name)
 {
 	cout << "Goodbye " << name << "!" << endl;
+
+	return 0;
 }
 
