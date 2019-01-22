@@ -8,6 +8,12 @@ In the root folder of each sample project, you will find a Doxygen configuration
 
 You can view the generated documentation in your browser by opening the index.html file in the docs folder.  There is also an example set of generated documentation files in each project's example-docs folder.
 
+## Setup
+
+Install the Doxygen CLI (**required**).  If you're using Linux, you can install it from your distribution's repo.  You can also get installation binaries from the [Doxygen home page](http://www.doxygen.nl/download.html). 
+
+If you'd also like a friendly Doxygen configuration builder, you should install Doxygen GUI as well.
+
 ## Modify Project Comments
 
 If you want to experiment with documentation comments in source files, simply edit the corresponding source files in your programmer's editor of choice, then regenerate the HTML documentation to see the results.
