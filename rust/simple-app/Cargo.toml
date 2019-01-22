@@ -1,0 +1,7 @@
+[package]
+name = "simple-app"
+version = "0.1.0"
+authors = ["Jim Carr <hidden-email>"]
+edition = "2018"
+
+[dependencies]
