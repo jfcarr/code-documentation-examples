@@ -1,3 +1,9 @@
 bin/
 obj/
 .vscode/
+
+c/docs/
+c-lite/docs/
+cpp/docs/
+csharp/docs/
+python/docs/

@@ -6,7 +6,7 @@ These are sample documentation projects using Doxygen.
 
 In the root folder of each sample project, you will find a Doxygen configuration file called "Doxyfile".  If you open a Terminal session and execute the `doxygen` command in the root folder, Doxyfile will be used automatically to regenerate the HTML documentation in the corresponding docs folder.  All of the source files will be scanned for documentation comments.
 
-You can view the generated documentation in your browser by opening the index.html file in the docs folder.
+You can view the generated documentation in your browser by opening the index.html file in the docs folder.  There is also an example set of generated documentation files in each project's example-docs folder.
 
 ## Modify Project Comments
 
