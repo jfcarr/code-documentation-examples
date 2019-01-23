@@ -1,29 +1,31 @@
-# doxygen-examples
+# code-documentation-examples
 
 ## Overview
 
-These are sample documentation projects using Doxygen.
-
-In the root folder of each sample project, you will find a Doxygen configuration file called "Doxyfile".  If you open a Terminal session and execute the `doxygen` command in the root folder, Doxyfile will be used automatically to regenerate the HTML documentation in the corresponding docs folder.  All of the source files will be scanned for documentation comments.
+These are sample documentation projects using Doxygen and other code documentation generation tools.
 
 You can view the generated documentation in your browser by opening the index.html file in the docs folder.  There is also an example set of generated documentation files in each project's example-docs folder.
 
-## Setup
+## Doxygen
+
+In the root folder of each Doxygen sample project, you will find a Doxygen configuration file called "Doxyfile".  If you open a Terminal session and execute the `doxygen` command in the root folder, Doxyfile will be used automatically to regenerate the HTML documentation in the corresponding docs folder.  All of the source files will be scanned for documentation comments.
+
+### Setup
 
 Install the Doxygen CLI (**required**).  If you're using Linux, you can install it from your distribution's repo.  You can also get installation binaries from the [Doxygen home page](http://www.doxygen.nl/download.html). 
 
 If you'd also like a friendly Doxygen configuration builder, you should install Doxygen GUI as well.
 
-## Modify Project Comments
-
-If you want to experiment with documentation comments in source files, simply edit the corresponding source files in your programmer's editor of choice, then regenerate the HTML documentation to see the results.
-
-## Modify Doxygen Project Options
+### Modify Doxygen Project Options
 
 If you want to change the Doxygen project options, Doxyfile can be edited in a couple of ways:
 
 1. You can edit the file directly with a text editor, or
 2. You can open the file in doxywizard for a friendlier UI experience.
+
+## Modify Project Comments
+
+If you want to experiment with documentation comments in source files, simply edit the corresponding source files in your programmer's editor of choice, then regenerate the HTML documentation to see the results.
 
 ## Links
 
