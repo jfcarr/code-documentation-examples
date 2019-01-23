@@ -7,4 +7,6 @@ c-lite/docs/
 cpp/docs/
 csharp/docs/
 python/docs/
+
+python-pydoc/src/__pycache__/
 rust/simple-app/target
