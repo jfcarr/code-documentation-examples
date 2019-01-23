@@ -4,7 +4,7 @@ pub struct Greeter {
 }
 
 impl Greeter {
-    pub fn new (name: &str) -> Greeter {
+    pub fn new(name: &str) -> Greeter {
         Greeter {
             name: name.to_string(),
         }
