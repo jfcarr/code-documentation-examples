@@ -1,4 +1,4 @@
-Python also has its own accompanying documentation generator, called ```pydoc```.  (```pydoc3``` for Python 3)
+Python also has its own accompanying documentation generator, called ```pydoc``` (```pydoc3``` for Python 3).
 
 If you're using pydoc instead of Doxygen, you should use Python-style docstrings, which take this form:
 
