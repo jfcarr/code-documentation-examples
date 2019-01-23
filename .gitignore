@@ -2,11 +2,11 @@ bin/
 obj/
 .vscode/
 
-c/docs/
-c-lite/docs/
-cpp/docs/
-csharp/docs/
-python/docs/
+c-doxygen/docs/
+c-lite-doxygen/docs/
+cpp-doxygen/docs/
+csharp-doxygen/docs/
+python-doxygen/docs/
 
 python-pydoc/src/__pycache__/
 rust-cargo-doc/simple-app/target
