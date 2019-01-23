@@ -9,4 +9,4 @@ csharp/docs/
 python/docs/
 
 python-pydoc/src/__pycache__/
-rust/simple-app/target
+rust-cargo-doc/simple-app/target
