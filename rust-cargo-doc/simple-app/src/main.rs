@@ -14,14 +14,14 @@ impl Greeter {
 impl Greeter {
     /// Says hello!
     pub fn say_hello(&self) {
-        println!("Hello {0}!", self.name);
+        println!("Hello {name}!", name=self.name);
     }
 }
 
 impl Greeter {
     /// Says goodbye!
     pub fn say_goodbye(&self) {
-        println!("Goodbye {0}!", self.name);
+        println!("Goodbye {name}!", name=self.name);
     }
 }
 
