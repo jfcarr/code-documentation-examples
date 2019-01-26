@@ -1,4 +1,4 @@
-This one's a bit of a fakeout.  :)  Doxygen doesn't support Rust, but Rust has a capable documentation generator built in to Cargo.
+Doxygen doesn't support Rust, but Rust has a capable documentation generator built in to Cargo.
 
 To generate documentation:
 
